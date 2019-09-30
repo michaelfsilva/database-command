@@ -1,2 +1,2 @@
-# projects
-Personal projects
+# Database Command
+Project for Databases comparison.
